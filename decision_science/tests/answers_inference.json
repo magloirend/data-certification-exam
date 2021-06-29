@@ -1,0 +1,7 @@
+{
+    "MEDIAN_AGE": "\nMedian age is associated with a positive so increasing the number of crimes\n",
+    "T_STAT": "\nthe t-statistic associated with the median age regressor it's 1,820\n\nit's computed by :\nBeta1 - b1/ std err(b1)\nif H0 will be true:\n2252,7344 / 1237.522 = 1,820\n",
+    "P_VALUE": "\nThis P values means the median age IS NOT satistically significant at 90% confidence\n",
+    "INCREASE": "\nFor each increase of 1 families with a married couple, number of indicents decrease on average by 2115.183942\"\n",
+    "LIMITATIONS": "\nThe main limitation of this regression accordting to me it's there are\nstrong multicollinearity,\ncausing an High R-squared score and large standard errors\n"
+}
